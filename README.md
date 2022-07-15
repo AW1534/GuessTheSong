@@ -1,5 +1,5 @@
 # Guess the song
-*A small project by Andrew Wiltshire, for a school project*
+*A small project by Andrew Wiltshire, for school*
 
 # Note
 yes, the code sucks. could've utilised JSON more, used bcrypt to encrypt passwords, MongoDB for the user database...
@@ -14,3 +14,12 @@ But usually i dont code in python without a framework (discord.py). maybe I'll r
 That's it- no python packages are used here, other than the built-in ones
 
 # How to play
+A random song name and artist are chosen. 
+
+The artist and the first letter of each word in the song title are displayed.
+
+The user has two chances to guess the name of the song. 
+
+If the user guesses the answer correctly the first time, they score 3 points. If the user guesses the answer correctly the second time they score 1 point. The game repeats.
+
+The game ends when a player guesses the song name incorrectly the second time.
