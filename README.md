@@ -8,7 +8,7 @@ But usually i dont code in python without a framework (discord.py). maybe I'll r
 
 # Requirements
 - Python 3 (Python 3.10 was used to create this)
-- windows, mac, linux or any linux distro that supports the `cls` command
+- windows, mac, or any linux distro that supports the `cls` command
 - It is recommended to add python to `PATH`
 
 That's it- no python packages are used here, other than the built-in ones
