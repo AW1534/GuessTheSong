@@ -6,6 +6,8 @@ yes, the code sucks. could've utilised JSON more, used bcrypt to encrypt passwor
 
 But usually i dont code in python without a framework (discord.py). maybe I'll rewrite this in node.js
 
+Also, please dont run this in IDLE. I know it will be difficult on the school computers but it wont operate as intended in IDLE
+
 # Requirements
 - Python 3 (Python 3.10 was used to create this)
 - windows, mac, or any linux distro that supports the `cls` command
